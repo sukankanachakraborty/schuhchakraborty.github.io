@@ -13,7 +13,7 @@ name                     : &name "Sukankana Chakraborty"
 description              : &description "personal description"
 url                      : https://sukankanachakraborty.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sukankanachakraborty.github.io"
+repository               : "sukankanachakraborty/sukankanachakraborty.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sukankanachakraborty"
+  github           : "https://github.com/sukankanachakraborty"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2115-8531"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "CSukankana"
+  twitter          : "https://twitter.com/CSukankana"
   vine             :
   weibo            :
   xing             :
